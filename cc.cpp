@@ -5,9 +5,13 @@
 using namespace std();
 int main(){
 	cout<<"Probando git";
-	
+	int a;
 	cin>>a;
-	cout<<a;
+	while(a<5){
+		cout<<a;
+	}
+	cout<<"iteracion";
+
 	system("pasuse");
 	return 0;
 }
