@@ -4,12 +4,6 @@
 
 using namespace std();
 int main(){
-	cout<<"Probando git";
-	int a;
-	cin>>a;
-	while(a<5){
-		cout<<a;
-	}
 	cout<<"iteracion";
 	char b[4];
 	b={'1','f','c','3'};
