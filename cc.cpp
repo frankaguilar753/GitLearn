@@ -4,8 +4,6 @@
 
 using namespace std();
 int main(){
-	cout<<"Probando git";
-	cout<<"iteracion";
 	char c[4];
 	b={'1','f','c','3'};
 	cout<<b;
