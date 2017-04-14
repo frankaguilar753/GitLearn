@@ -11,7 +11,10 @@ int main(){
 		cout<<a;
 	}
 	cout<<"iteracion";
-
+	char b[4];
+	b={'1','f','c','3'};
+	cout<<b;
+	
 	system("pasuse");
 	return 0;
 }
