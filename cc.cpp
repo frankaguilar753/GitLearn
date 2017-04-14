@@ -15,8 +15,9 @@ int main(){
 	b={'1','f','c','3'};
 	cout<<b;
 	for (int b=0;b<4;b++){
-		cout<<c[b]
+		cout<<c[b];
 	}
+	char m='s';
 	system("pasuse");
 	return 0;
 }
